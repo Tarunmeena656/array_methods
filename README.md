@@ -226,5 +226,4 @@ JavaScript arrays come with a rich set of built-in methods that can be very help
     let str = arr.toString(); // '1,2,3'
     ```
 
-Author: Tarun meena 
-Feel free to use these methods to make your array manipulations in JavaScript more efficient and expressive! 🎉
+Author: Tarun meena 🎉
